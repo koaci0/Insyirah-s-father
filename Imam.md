@@ -2,9 +2,11 @@
 
 Amalan sunat yang sangat digalakkan selepas menunaikan solat fardhu berdasarkan sunnah Rasulullah SAW.
 
+<br>
+
 ---
 
-## 1. Istighfar (3 kali)
+## Istighfar (3 kali)
 
 **أَسْتَغْفِرُ اللهَ**  
 `Astaghfirullāh` (3×)  
@@ -15,9 +17,11 @@ Amalan sunat yang sangat digalakkan selepas menunaikan solat fardhu berdasarkan 
 أَسْتَغْفِرُ اللهَ الْعَظِيمَ الَّذِي لَا إِلٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ وَأَتُوبُ إِلَيْهِ  
 `Astaghfirullāhal-‘aẓīm alladzī lā ilāha illā huwal-ḥayyul-qayyūm wa atūbu ilaih`
 
+<br>
+
 ---
 
-## 2. Doa Keselamatan
+## Doa Keselamatan
 
 **اللَّهُمَّ أَنْتَ السَّلَامُ وَمِنْكَ السَّلَامُ تَبَارَكْتَ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ**  
 
@@ -26,9 +30,11 @@ Amalan sunat yang sangat digalakkan selepas menunaikan solat fardhu berdasarkan 
 **Maksud:** Ya Allah, Engkaulah Pemberi keselamatan, dan dari-Mu lah keselamatan. Maha Suci Engkau, wahai Tuhan yang mempunyai keagungan dan kemuliaan.  
 *(HR. Muslim)*
 
+<br>
+
 ---
 
-## 3. Pengakuan Tauhid
+## Pengakuan Tauhid
 
 **لَا إِلٰهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ**  
 
@@ -39,9 +45,11 @@ Amalan sunat yang sangat digalakkan selepas menunaikan solat fardhu berdasarkan 
 **Tambahan yang digalakkan:**  
 اللَّهُمَّ لَا مَانِعَ لِمَا أَعْطَيْتَ، وَلَا مُعْطِيَ لِمَا مَنَعْتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ
 
+<br>
+
 ---
 
-## 4. Tasbih, Tahmid & Takbir
+## Tasbih, Tahmid & Takbir
 
 - **سُبْحَانَ اللهِ** (`Subḥānallāh`) × **33**
 - **الْحَمْدُ لِلَّهِ** (`Alḥamdulillāh`) × **33**
@@ -52,46 +60,37 @@ Kemudian tutup dengan:
 
 > **Keutamaan:** Dosa diampunkan walaupun sebanyak buih di lautan *(Hadis sahih)*.
 
+<br>
+
 ---
 
-## 5. Ayat Kursi (Al-Baqarah: 255)
+## Ayat Kursi (Al-Baqarah: 255)
 
 Dibaca **1 kali**.
 
 > **Keutamaan:** Tiada yang menghalang masuk syurga kecuali kematian *(Hadis sahih)*.
 
+<br>
+
 ---
 
-## 6. Surah Al-Ikhlas, Al-Falaq & An-Nas
+## Surah Al-Ikhlas, Al-Falaq & An-Nas
 
 - Selepas solat biasa → **1 kali** setiap satu
 - Selepas **Subuh** & **Maghrib** → **3 kali** setiap satu (sangat digalakkan)
 
----
-
-## Doa Tambahan yang Digalakkan
-
-### Doa Memohon Bantuan Ibadah
-**اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ**  
-
-`Allāhumma a‘innī ‘alā dzikrika wa syukrika wa ḥusni ‘ibādatik`  
-
-**Maksud:** Ya Allah, bantulah aku untuk mengingat-Mu, bersyukur kepada-Mu dan beribadah dengan baik kepada-Mu.
-
-### Doa Dilindungi dari Api Neraka
-**اللَّهُمَّ أَجِرْنِي مِنَ النَّارِ**  
-
-`Allāhumma ajirnī minan-nār` (3× atau 7× selepas Maghrib)
+<br>
 
 ---
 
-## Nota
+## Doa Selamat (Popular di Malaysia)
+**اللَّهُمَّ إِنَّا نَسْأَلُكَ سَلَامَةً فِي الدِّينِ، وَعَافِيَةً فِي الْجَسَدِ، وَزِيَادَةً فِي الْعِلْمِ، وَبَرَكَةً فِي الرِّزْقِ، وَتَوْبَةً قَبْلَ الْمَوْتِ، وَرَحْمَةً عِنْدَ الْمَوْتِ، وَمَغْفِرَةً بَعْدَ الْمَوْتِ.**  
+**اللَّهُمَّ هَوِّنْ عَلَيْنَا فِي سَكَرَاتِ الْمَوْتِ، وَالنَّجَاةَ مِنَ النَّارِ، وَالْعَفْوَ عِنْدَ الْحِسَابِ.**
 
-- Amalan ini adalah **sunat muakkad** (sangat digalakkan).
-- Boleh dibaca secara perlahan atau dalam hati.
-- Versi di atas adalah yang paling dekat dengan sunnah Rasulullah SAW.
+`Allāhumma innā nas’aluka salāmatan fid-dīn, wa ‘āfiyatan fil-jasad, wa ziyādatan fil-‘ilm, wa barakatan fir-rizq, wa tawbatan qablal-maut, wa raḥmatan ‘indal-maut, wa maghfiratan ba‘dal-maut. Allāhumma hawwin ‘alainā fī sakarātil-maut, wan-najāta minan-nār, wal-‘afwa ‘indal-ḥisāb.`
+
+**Maksud:** Ya Allah, kami memohon kepada-Mu keselamatan dalam agama, kesihatan tubuh badan, pertambahan ilmu, keberkatan rezeki, taubat sebelum mati, rahmat ketika mati, dan keampunan selepas mati. Ya Allah, permudahkanlah kami ketika sakaratul maut, selamatkan kami dari api neraka, dan berilah keampunan semasa hisab.
+
+<br>
 
 ---
-
-**Wallahu a‘lam.**  
-Semoga bermanfaat.
